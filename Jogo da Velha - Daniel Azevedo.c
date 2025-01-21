@@ -1,3 +1,11 @@
+/*
+ * Este código foi desenvolvido por Daniel Azevedo de Oliveira Maia.
+ * Ele implementa um jogo da velha em C, com as opções de jogar contra o computador
+ * ou contra outro jogador. O código foi estruturado para ser legível, eficiente
+ * e utiliza boas práticas de programação.
+ */
+
+
 #include <stdio.h>
 #include <locale.h>
 #include <stdlib.h>
